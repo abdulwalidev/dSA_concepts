@@ -1,6 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
-
+// maps basic code
 int main() {
     map<string, int> m;
     m["apple"] = 3;
