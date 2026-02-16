@@ -1,6 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
-
+// this is stack code
 int main() {
     stack<int> st;
     st.push(10);
